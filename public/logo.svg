@@ -1,0 +1,8 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#001f32"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Montserrat, sans-serif" font-size="24" font-weight="700">
+    ALF ID
+  </text>
+  <circle cx="20" cy="30" r="8" fill="white" opacity="0.8"/>
+  <circle cx="180" cy="30" r="8" fill="white" opacity="0.8"/>
+</svg>
